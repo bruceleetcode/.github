@@ -2,7 +2,7 @@
 
 WE ARE THE BRUCE LEE IN CODING WORLD
 
-![brucelee](image.png)
+![brucelee](/assets/image.png)
 
 
 ## WHAT WE DO
